@@ -1,0 +1,11 @@
+MIT License
+Copyright (c) 2026 Clan
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software to use, copy, modify, and distribute it, subject to the
+following conditions:
+
+1. The above copyright notice must be included in all copies.
+2. This software is provided "as is", without warranty of any kind.
+   Clan is not liable for any damages arising from its use.
+3. You may not sell this software without written permission from Clan.
